@@ -19,7 +19,17 @@ Install any missing dependencies using  [pip](https://pip.pypa.io/en/stable/inst
   - For image labelling install the required library and clone the repository given in the program.
 
 ### [Training and Detection](https://github.com/Garvit-01/Object_Detector/blob/main/2.%20Training%20and%20Detection.ipynb) File:
-- 
+
+- Run the first few steps
+- When installing the model you can choose any model from the following link: 
+  [Models TensorFlow](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+- However, in this project I have used **SSD MobileNet V2 FPNLite 320x320**
+- Then install the tensorflow object detection model it will take sometime.
+- Run the verification step and after running should state "OK".
+
+- Before going to the next step install the CUDA and cuDNN you can check compatible version here [Tensorflow](https://www.tensorflow.org/install/source_windows) 
+- Run all the commands after that; on step 6 during the training of the model run the `print(command)` and copy its output in the command prompt(location should be the directory   where the project is save) after that paste the paste it in the command prompt and wait while it runs   
+[Tensorflow](https://www.tensorflow.org/install/source_windows) 
 
 
 
