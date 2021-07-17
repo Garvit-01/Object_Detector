@@ -30,7 +30,6 @@ Install any missing dependencies using  [pip](https://pip.pypa.io/en/stable/inst
 - Before going to the next step install the CUDA and cuDNN you can check compatible version here [Tensorflow](https://www.tensorflow.org/install/source_windows) only if your system has GPU otherwise, you can move to next steps.
 - For the next 2 commands you can do on the juptyer notebook as well as but command prompt or anaconda prompt is better as it will give some visual representation. The output will be the same if you run anywhere. 
 - Run all the commands after that; on step 6 during the training of the model run the `print(command)` and copy its output in the command prompt(location should be the directory   where the project is save) after that paste the paste it in the command prompt and wait while it runs (it might take some time depending upon the gpu and cpu of your system)
-[Tensorflow](https://www.tensorflow.org/install/source_windows) 
 - After it is done during the Evaluate of the model step do the same thing again as done in the above  step.
 
 - Traing of the model is done.
