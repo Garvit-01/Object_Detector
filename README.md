@@ -1,7 +1,7 @@
 # Object_Detector
 
 ## Obejctive:
-Main motive is train the neural network so it can detect thumbsup, thumbsdown, thankyou and live long with the help of libraries such as tensorflow, keras, opencv and etc. It     can detect live images with the help of webcam and also by uploading a picture from the system.
+The main motive is to train the neural network so it can detect thumbsup, thumbsdown, thankyou and live long with the help of libraries such as tensorflow, keras, opencv and etc. It can detect live images with the help of webcam and also by uploading a picture from the system.
   
 -------------------------------------------------------------------------------------------------------------------------------------
 ### Made on jupyter notebook.
